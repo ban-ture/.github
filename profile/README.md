@@ -54,5 +54,5 @@ Billions of people across Africa and the developing world are excluded from Web3
 ---
 
 ## 🧱 Unite DeFi Hackathon
-This project is built under the [Unite DeFi Hackathon 2025](https://ethglobal.com/events/unite) authored by [Francis Musango](https://github.com/francis-Paul-code)
+This project is built under the [Unite DeFi Hackathon 2025](https://ethglobal.com/events/unite) and is authored by [Francis Musango](https://github.com/francis-Paul-code)
 
